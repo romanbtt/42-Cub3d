@@ -13,6 +13,9 @@ Examples of use :\
 **./cub3D maps/map.cub** will launch the game\
 **./cub3D maps/map.cub --save** will save the first image of the game without run the game.\
 
+![im1-re](https://raw.githubusercontent.com/romanbtt/42-Cursus/main/Images/projects/cub3d_image.png)
+
+
 
 
 
