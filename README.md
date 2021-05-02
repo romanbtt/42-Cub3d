@@ -7,11 +7,11 @@ All the textures of the walls, the sprite, the colors of celling and floor, the 
 
 **W**, **S**, **A**, **D** are used to move the player in the maze.\
 **Right arrow**, **left arrow** are used to rotate the player.\
-**Esc** is used to quit the game.\
+**Esc** is used to quit the game.
 
 Examples of use :\
 **./cub3D maps/map.cub** will launch the game\
-**./cub3D maps/map.cub --save** will save the first image of the game without run the game.\
+**./cub3D maps/map.cub --save** will save the first image of the game without run the game.
 
 ![im1-re](https://raw.githubusercontent.com/romanbtt/42-Cursus/main/Images/projects/cub3d_image.png)
 
